@@ -3,6 +3,7 @@ package sk.holic.sos;
 public class Main {
 
 
+
     public static void main(String[] args) {
         System.out.println(Test.calc() + "\n"); //Vypisanie statickej metody calc s vratnou hodnotou (12)
 

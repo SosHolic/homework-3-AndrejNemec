@@ -1,12 +1,16 @@
 package sk.holic.sos;
 
 public class GeneralTest {
+
     public int getCount() {return 1;}
+
 }
 class Test2 extends GeneralTest {
+
     public int getCount() {
         return 10;
     }
+
     public static void main(String[] args) {
         Test2 test = new Test2();
         int count = test.getCount(); //premenna count sa rovna 10
