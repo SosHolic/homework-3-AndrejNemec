@@ -2,7 +2,6 @@ package sk.holic.sos;
 
 public class Test {
 
-
     public Test ref; //Premenna typu Test s identifikatorem ref
     public static Test sref; //Staticka premenna typu Test s identifikatorem sref
     public int val; //Premenna typu int s identifikatorem val

@@ -1,9 +1,7 @@
 package sk.holic.sos;
 
 public class GeneralTest {
-
     public int getCount() {return 1;}
-
 }
 class Test2 extends GeneralTest {
 
